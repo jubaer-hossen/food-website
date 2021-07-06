@@ -52,3 +52,38 @@ h1{
     padding: 10px 20px;
     border-radius: 50px;
 }
+
+.recipes{
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.food-wid{
+    box-shadow: 10px 10px 40px gray;
+    width: 25%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-left: 30Px;
+    border-radius: 20px;
+    padding-bottom: 80px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.food-photo{
+    width: 90%;
+    border-radius: 20px;
+    margin-top: 10%;
+     
+   
+    margin-right:3%;
+    margin-left:auto;
+    
+
+    
+    
+    
+    
+}
