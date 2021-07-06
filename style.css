@@ -75,15 +75,22 @@ h1{
 .food-photo{
     width: 90%;
     border-radius: 20px;
-    margin-top: 10%;
-     
-   
+    margin-top: 9%;
     margin-right:3%;
-    margin-left:auto;
-    
+    margin-left:auto; 
+}
+#followers{
+    box-shadow: 10px 10px 40px gray;
+    width: 80%;
+    height:  150px;
+    margin: 10%; 
+    border-radius: 10px;
+}
 
-    
-    
-    
-    
+.followers-wid{
+    padding-left: 10%;
+    padding-top: 5%;
+    margin-left: 4%;
+    text-align: center;
+
 }
